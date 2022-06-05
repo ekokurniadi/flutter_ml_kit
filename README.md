@@ -1,5 +1,7 @@
 # flutter_firebase_ml_kit
 
+### IMPORTANT CHANGE FILE GOOGLE-SERVICE.JSON ON ANDROID/APP FOLDER WITH YOUR OWN.
+
 A new Flutter project.
 
 ## Getting Started

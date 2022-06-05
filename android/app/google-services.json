@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879588762980",
+    "project_id": "ml-kit-flutter-a1f75",
+    "storage_bucket": "ml-kit-flutter-a1f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879588762980:android:6a3a847b226ba123c34671",
+        "android_client_info": {
+          "package_name": "com.zerobaseindexing.flutter_text_recognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879588762980-vg2qft2ogfhujien62t9qvs7vsh2eipv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "CHANGE GOOGLE SERVICE JSON WITH YOUR GOOGLE SERVICE ACCOUNT JSON"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879588762980-vg2qft2ogfhujien62t9qvs7vsh2eipv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
